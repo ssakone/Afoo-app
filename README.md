@@ -1,6 +1,6 @@
 # Afoo
 
-Afoo is an Electron desktop app for voice-to-text correction. Trigger recording via a global hotkey, speak, and get transcribed, corrected text auto-pasted anywhere.
+Afoo is an desktop app for voice-to-text correction. Trigger recording via a global hotkey, speak, and get transcribed, corrected text auto-pasted anywhere.
 
 ## Downloads
 
